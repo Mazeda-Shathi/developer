@@ -34,6 +34,7 @@ h1{
 .another{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
 }
 .an{
     padding-right: 130px;
@@ -42,7 +43,34 @@ h1{
     color: indigo;
 }
 .first{
-    height: 500px;
-    width: 500px;
-    padding-left: 80px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow:10px 8px 30px darkslategray;
+    border-radius: 5px;
+}
+h2{
+    font-size: 30px;
+}
+.experience{
+background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#Full{
+    border-left: 5px solid;
+    border-image: linear-gradient(darkred,red);
+    border-image-slice: 5;
+}
+#baby{
+        border-left: 5px solid;
+        border-image: linear-gradient(darkred,red);
+        border-image-slice: 1;
+    
+}
+#footer{
+    text-align: center;
+    color: darkviolet;
+    font-size: 15px;
 }
