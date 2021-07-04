@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.cl{
+    color: darkred;
+}
+section{
+    display:flex;
+}
+.position
+{
+    width: 50%;
+    padding-left:5%;
+}
+.position image{
+    width: 100%;
+}
+#but{
+    background-image: linear-gradient(red,darkred);
+    color: oldlace;
+    text-decoration: none;
+    padding:10px 40px;
+    border-radius: 10px;
+}
