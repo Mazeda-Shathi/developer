@@ -6,9 +6,9 @@ h1{
     font-size: 50px;
 }
 .cl{
-    color: darkred;
+    color: darkred
 }
-section{
+.flex-contain{
     display:flex;
     margin-bottom: 100px;
 }
@@ -38,4 +38,11 @@ section{
 .an{
     padding-right: 130px;
     padding-left: 5%;
+}.sec{
+    color: indigo;
+}
+.first{
+    height: 500px;
+    width: 500px;
+    padding-left: 80px;
 }
