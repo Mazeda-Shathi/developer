@@ -10,6 +10,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom: 100px;
 }
 .position
 {
@@ -19,7 +20,7 @@ section{
 .position image{
     width: 100%;
 }
-#but{
+.but{
     background-image: linear-gradient(red,darkred);
     color: oldlace;
     text-decoration: none;
@@ -29,4 +30,12 @@ section{
 .banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.another{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.an{
+    padding-right: 130px;
+    padding-left: 5%;
 }
